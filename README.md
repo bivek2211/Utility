@@ -13,3 +13,6 @@ Process pools are helpful for speeding up the python data processing scripts.
 
 ### 2. spaCy.py
 implementation and usage of spaCy, one of the mportant NLP library 
+- main competitor of the NLTK. These two can be used for the same tasks
+- fastest NLP framework
+- more object oriented compared to other libraries
