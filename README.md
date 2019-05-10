@@ -1,4 +1,4 @@
-### process_pool.py
+### 1. process_pool.py
 Process pools are helpful for speeding up the python data processing scripts.
 
 **Steps :**
@@ -10,3 +10,6 @@ Process pools are helpful for speeding up the python data processing scripts.
 - Grabbing statistics out of a collection of separate web server log files
 - Parsing data out of a bunch of XML, CSV or json files
 - Pre-processing lots of images to create a machine learning data set
+
+### 2. spaCy.py
+implementation and usage of spaCy, one of the mportant NLP library 
