@@ -11,8 +11,11 @@ Process pools are helpful for speeding up the python data processing scripts.
 - Parsing data out of a bunch of XML, CSV or json files
 - Pre-processing lots of images to create a machine learning data set
 
-### 2. spaCy.py
+### 2. spaCy.ipynb
 implementation and usage of spaCy, one of the mportant NLP library 
 - main competitor of the NLTK. These two can be used for the same tasks
 - fastest NLP framework
 - more object oriented compared to other libraries
+
+### 3. xml-to-csv.ipynb
+notebook for extracting data from the multiple .xml file lies under some folder at single time and putting all the data to a single dataframe, and finally exporting it to a .csv file 
